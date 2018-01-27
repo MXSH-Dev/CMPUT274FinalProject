@@ -47,27 +47,48 @@ Accessories:
 WIRING INSTRUCTIONS:
 
 for display:
-Board Pin <---> Arduino Pin
-===========================
-GND             GND
-Vin             5V
-3Vo             NOT CONNECTED
-CLK             52
-MISO            50
-MOSI            51
-CS              10
-D/C             9
-RST             NOT CONNECTED
-Lite            NOT CONNECTED
-Y+              A2 (analog pin)
-X+              4  (digital pin)
-Y-              5  (digital pin)
-X-              A3 (analog pin)
-IM0 - IM3       NOT CONNECTED (they expect a 3.3v signal, DON'T CONNECT!)
-CCS             6
-CD              NOT CONNECTED
+
+Board Pin     <---> 	Arduino Pin
+
+=====================================
+
+GND             	GND
+
+Vin            		5V
+
+3Vo             	NOT CONNECTED
+
+CLK            	 	52
+
+MISO            	50
+
+MOSI            	51
+
+CS              	10
+
+D/C             	9
+
+RST             	NOT CONNECTED
+
+Lite            	NOT CONNECTED
+
+Y+              	A2 (analog pin)
+
+X+              	4  (digital pin)
+
+Y-              	5  (digital pin)
+
+X-              	A3 (analog pin)
+
+IM0 - IM3       	NOT CONNECTED (they expect a 3.3v signal, DON'T CONNECT!)
+
+CCS             	6
+
+CD              	NOT CONNECTED
+
 
 for joy stick 1 (Player 1):
+
 Arduino Analog pin A1 <--> joy stick pin VRx
 
 Arduino Analog pin A0 <--> joy stick pin VRy
@@ -77,6 +98,7 @@ Arduino GND <--> joy stick GND
 Arduino 5V <--> joy stick 5V
 
 for joy stick 2 (Player 1):
+
 Arduino Analog pin A5 <--> joy stick pin VRx
 
 Arduino Analog pin A4 <--> joy stick pin VRy
