@@ -50,15 +50,15 @@ for display:
 
 Board Pin     <---> 	Arduino Pin
 
-=====================================
+===========================
 
-GND             	GND
+GND                 	GND
 
-Vin            		5V
+Vin       		5V
 
-3Vo             	NOT CONNECTED
+3Vo                  	NOT CONNECTED
 
-CLK            	 	52
+CLK           	 	52
 
 MISO            	50
 
