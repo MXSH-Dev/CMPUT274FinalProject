@@ -69,14 +69,20 @@ CD              NOT CONNECTED
 
 for joy stick 1 (Player 1):
 Arduino Analog pin A1 <--> joy stick pin VRx
+
 Arduino Analog pin A0 <--> joy stick pin VRy
+
 Arduino GND <--> joy stick GND
+
 Arduino 5V <--> joy stick 5V
 
 for joy stick 2 (Player 1):
 Arduino Analog pin A5 <--> joy stick pin VRx
+
 Arduino Analog pin A4 <--> joy stick pin VRy
+
 Arduino GND <--> joy stick GND
+
 Arduino 5V <--> joy stick 5V
 
 INSTRUCTION TO RUN THE CODE:
