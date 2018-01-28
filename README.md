@@ -1,10 +1,10 @@
 # CMPUT274 Final Project
 
 XIAOJIE XING
-ID: 1502319
+ID:
 
 YE WANG
-ID: 1501642
+ID:
 
 Final Project: Air Hockey
 
